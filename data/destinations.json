@@ -1,0 +1,1442 @@
+[
+    {
+        "name": "Nhà thờ Đức Bà Sài Gòn",
+        "rating": "4.4",
+        "type": "Nhà thờ chính tòa Công giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Nhà hát Thành phố Hồ Chí Minh",
+        "rating": "4.5",
+        "type": "Nhà hát Opera",
+        "price": "N/A"
+    },
+    {
+        "name": "Dinh Độc Lập",
+        "rating": "4.4",
+        "type": "Bảo tàng",
+        "price": "40.000 ₫"
+    },
+    {
+        "name": "Khu di tích lịch sử Địa đạo Củ Chi",
+        "rating": "4.5",
+        "type": "Điểm mốc lịch sử",
+        "price": "N/A"
+    },
+    {
+        "name": "Chợ Bến Thành",
+        "rating": "4.0",
+        "type": "Chợ",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Thảo Cầm Viên Sài Gòn",
+        "rating": "4.2",
+        "type": "Vườn bách thú",
+        "price": "60.000 ₫"
+    },
+    {
+        "name": "Bảo tàng Mỹ thuật TP.HCM",
+        "rating": "4.3",
+        "type": "Bảo tàng nghệ thuật",
+        "price": "N/A"
+    },
+    {
+        "name": "Bảo tàng Lịch sử TP.Hồ Chí Minh",
+        "rating": "4.4",
+        "type": "Bảo tàng lịch sử",
+        "price": "30.000 ₫"
+    },
+    {
+        "name": "Công viên văn hóa Suối Tiên",
+        "rating": "4.2",
+        "type": "Công viên giải trí",
+        "price": "180.000 ₫"
+    },
+    {
+        "name": "Nguyễn Huệ",
+        "rating": "4.6",
+        "type": "Con đường nổi tiếng",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Công viên Tao Đàn",
+        "rating": "4.5",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Bến Nhà Rồng - Bảo Tàng Hồ Chí Minh (Chi nhánh TP.HCM)",
+        "rating": "4.7",
+        "type": "Bảo tàng lịch sử",
+        "price": "N/A"
+    },
+    {
+        "name": "Bảo tàng Chứng tích Chiến tranh",
+        "rating": "4.5",
+        "type": "Bảo tàng chiến tranh",
+        "price": "40.000 ₫"
+    },
+    {
+        "name": "Bảo tàng Thành phố Hồ Chí Minh",
+        "rating": "4.2",
+        "type": "Bảo tàng lịch sử",
+        "price": "N/A"
+    },
+    {
+        "name": "Công viên nước Đầm Sen",
+        "rating": "4.3",
+        "type": "Công viên nước",
+        "price": "220.000 ₫"
+    },
+    {
+        "name": "Bảo tàng Phụ nữ Nam bộ",
+        "rating": "4.4",
+        "type": "Bảo tàng",
+        "price": "N/A"
+    },
+    {
+        "name": "CHÙA NGỌC HOÀNG",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Tháp Bitexco Financial Tower",
+        "rating": "4.5",
+        "type": "Trung tâm thương mại",
+        "price": "240.000 ₫"
+    },
+    {
+        "name": "Hyundai An Sương",
+        "rating": "4.3",
+        "type": "Đại lý xe tải",
+        "price": "N/A"
+    },
+    {
+        "name": "Landmark 81",
+        "rating": "4.6",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "N/A"
+    },
+    {
+        "name": "Bưu điện trung tâm Sài Gòn",
+        "rating": "4.4",
+        "type": "Bưu điện",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Bưu điện Thành phố Hồ Chí Minh",
+        "rating": "4.4",
+        "type": "Bưu điện",
+        "price": "N/A"
+    },
+    {
+        "name": "Nhà Thờ Giáo Xứ Tân Định",
+        "rating": "4.4",
+        "type": "Nhà thờ Công giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chùa Vĩnh Nghiêm",
+        "rating": "4.6",
+        "type": "Chùa phật giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chùa Bửu Long",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Đường sách Thành phố Hồ Chí Minh",
+        "rating": "4.6",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Saigon Skydeck",
+        "rating": "4.4",
+        "type": "Sân ngắm cảnh",
+        "price": "240.000 ₫"
+    },
+    {
+        "name": "Phố đi bộ Bùi Viện",
+        "rating": "4.3",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Ủy ban Nhân dân Thành phố Hồ Chí Minh",
+        "rating": "4.5",
+        "type": "Văn phòng chính quyền thành phố",
+        "price": "N/A"
+    },
+    {
+        "name": "Chợ hoa Hồ Thị Kỷ",
+        "rating": "4.4",
+        "type": "Chợ hoa",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chợ Bình Tây",
+        "rating": "4.4",
+        "type": "Chợ",
+        "price": "N/A"
+    },
+    {
+        "name": "Chùa Bà thiên hậu",
+        "rating": "4.5",
+        "type": "Nơi thờ cúng",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Công viên Vinhomes Central Park",
+        "rating": "4.6",
+        "type": "Công viên",
+        "price": "N/A"
+    },
+    {
+        "name": "Chợ Tân Định",
+        "rating": "4.2",
+        "type": "Chợ",
+        "price": "N/A"
+    },
+    {
+        "name": "Công viên 23 tháng 9",
+        "rating": "4.3",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Cầu Ánh Sao",
+        "rating": "4.6",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "N/A"
+    },
+    {
+        "name": "Chùa Hoằng Pháp",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Bảo tàng Y học Cổ truyền Việt Nam",
+        "rating": "4.4",
+        "type": "Bảo tàng",
+        "price": "180.000 ₫"
+    },
+    {
+        "name": "CÔNG VIÊN GIA ĐỊNH",
+        "rating": "4.6",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chùa Xá Lợi",
+        "rating": "4.6",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Nhà thờ Đức Bà Sài Gòn",
+        "rating": "4.4",
+        "type": "Nhà thờ chính tòa Công giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Nhà hát Thành phố Hồ Chí Minh",
+        "rating": "4.5",
+        "type": "Nhà hát Opera",
+        "price": "N/A"
+    },
+    {
+        "name": "Dinh Độc Lập",
+        "rating": "4.4",
+        "type": "Bảo tàng",
+        "price": "40.000 ₫"
+    },
+    {
+        "name": "Khu di tích lịch sử Địa đạo Củ Chi",
+        "rating": "4.5",
+        "type": "Điểm mốc lịch sử",
+        "price": "N/A"
+    },
+    {
+        "name": "Chợ Bến Thành",
+        "rating": "4.0",
+        "type": "Chợ",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Thảo Cầm Viên Sài Gòn",
+        "rating": "4.2",
+        "type": "Vườn bách thú",
+        "price": "60.000 ₫"
+    },
+    {
+        "name": "Bảo tàng Mỹ thuật TP.HCM",
+        "rating": "4.3",
+        "type": "Bảo tàng nghệ thuật",
+        "price": "N/A"
+    },
+    {
+        "name": "Bảo tàng Lịch sử TP.Hồ Chí Minh",
+        "rating": "4.4",
+        "type": "Bảo tàng lịch sử",
+        "price": "30.000 ₫"
+    },
+    {
+        "name": "Công viên văn hóa Suối Tiên",
+        "rating": "4.2",
+        "type": "Công viên giải trí",
+        "price": "180.000 ₫"
+    },
+    {
+        "name": "Nguyễn Huệ",
+        "rating": "4.6",
+        "type": "Con đường nổi tiếng",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Công viên Tao Đàn",
+        "rating": "4.5",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Bến Nhà Rồng - Bảo Tàng Hồ Chí Minh (Chi nhánh TP.HCM)",
+        "rating": "4.7",
+        "type": "Bảo tàng lịch sử",
+        "price": "N/A"
+    },
+    {
+        "name": "Bảo tàng Chứng tích Chiến tranh",
+        "rating": "4.5",
+        "type": "Bảo tàng chiến tranh",
+        "price": "40.000 ₫"
+    },
+    {
+        "name": "Bảo tàng Thành phố Hồ Chí Minh",
+        "rating": "4.2",
+        "type": "Bảo tàng lịch sử",
+        "price": "N/A"
+    },
+    {
+        "name": "Công viên nước Đầm Sen",
+        "rating": "4.3",
+        "type": "Công viên nước",
+        "price": "220.000 ₫"
+    },
+    {
+        "name": "Bảo tàng Phụ nữ Nam bộ",
+        "rating": "4.4",
+        "type": "Bảo tàng",
+        "price": "N/A"
+    },
+    {
+        "name": "CHÙA NGỌC HOÀNG",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Tháp Bitexco Financial Tower",
+        "rating": "4.5",
+        "type": "Trung tâm thương mại",
+        "price": "240.000 ₫"
+    },
+    {
+        "name": "Hyundai An Sương",
+        "rating": "4.3",
+        "type": "Đại lý xe tải",
+        "price": "N/A"
+    },
+    {
+        "name": "Landmark 81",
+        "rating": "4.6",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "N/A"
+    },
+    {
+        "name": "Bưu điện trung tâm Sài Gòn",
+        "rating": "4.4",
+        "type": "Bưu điện",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Bưu điện Thành phố Hồ Chí Minh",
+        "rating": "4.4",
+        "type": "Bưu điện",
+        "price": "N/A"
+    },
+    {
+        "name": "Nhà Thờ Giáo Xứ Tân Định",
+        "rating": "4.4",
+        "type": "Nhà thờ Công giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chùa Vĩnh Nghiêm",
+        "rating": "4.6",
+        "type": "Chùa phật giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chùa Bửu Long",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Đường sách Thành phố Hồ Chí Minh",
+        "rating": "4.6",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Saigon Skydeck",
+        "rating": "4.4",
+        "type": "Sân ngắm cảnh",
+        "price": "240.000 ₫"
+    },
+    {
+        "name": "Phố đi bộ Bùi Viện",
+        "rating": "4.3",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Ủy ban Nhân dân Thành phố Hồ Chí Minh",
+        "rating": "4.5",
+        "type": "Văn phòng chính quyền thành phố",
+        "price": "N/A"
+    },
+    {
+        "name": "Chợ hoa Hồ Thị Kỷ",
+        "rating": "4.4",
+        "type": "Chợ hoa",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chợ Bình Tây",
+        "rating": "4.4",
+        "type": "Chợ",
+        "price": "N/A"
+    },
+    {
+        "name": "Chùa Bà thiên hậu",
+        "rating": "4.5",
+        "type": "Nơi thờ cúng",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Công viên Vinhomes Central Park",
+        "rating": "4.6",
+        "type": "Công viên",
+        "price": "N/A"
+    },
+    {
+        "name": "Chợ Tân Định",
+        "rating": "4.2",
+        "type": "Chợ",
+        "price": "N/A"
+    },
+    {
+        "name": "Công viên 23 tháng 9",
+        "rating": "4.3",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Cầu Ánh Sao",
+        "rating": "4.6",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "N/A"
+    },
+    {
+        "name": "Chùa Hoằng Pháp",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Bảo tàng Y học Cổ truyền Việt Nam",
+        "rating": "4.4",
+        "type": "Bảo tàng",
+        "price": "180.000 ₫"
+    },
+    {
+        "name": "CÔNG VIÊN GIA ĐỊNH",
+        "rating": "4.6",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chùa Xá Lợi",
+        "rating": "4.6",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Chợ An Đông",
+        "rating": "4.1",
+        "type": "Chợ",
+        "price": "N/A"
+    },
+    {
+        "name": "Chùa Quan Âm",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Công Viên Sala",
+        "rating": "4.6",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chợ Hạnh Thông Tây",
+        "rating": "4.2",
+        "type": "Chợ",
+        "price": "N/A"
+    },
+    {
+        "name": "Công Viên Lê Văn Tám",
+        "rating": "4.4",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Công Viên Văn Hóa Gò Vấp",
+        "rating": "4.4",
+        "type": "Công viên",
+        "price": "N/A"
+    },
+    {
+        "name": "Công viên Hồ bán nguyệt",
+        "rating": "4.6",
+        "type": "Công viên",
+        "price": "N/A"
+    },
+    {
+        "name": "Tu viện Khánh An",
+        "rating": "4.6",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Công Viên Hoàng Văn Thụ",
+        "rating": "4.4",
+        "type": "Công viên",
+        "price": "N/A"
+    },
+    {
+        "name": "Việt Nam Quốc Tự",
+        "rating": "4.6",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Khu du lịch Văn Thánh",
+        "rating": "4.2",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "N/A"
+    },
+    {
+        "name": "Galerie Quynh",
+        "rating": "4.4",
+        "type": "Phòng trưng bày nghệ thuật",
+        "price": "N/A"
+    },
+    {
+        "name": "Cần Giờ",
+        "rating": "N/A",
+        "type": "Administrative Area2",
+        "price": "N/A"
+    },
+    {
+        "name": "Nhà thờ Giáo xứ Thánh Phanxicô Xaviê",
+        "rating": "4.5",
+        "type": "Nhà thờ Công giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Đền thờ Bà Mariamman",
+        "rating": "4.7",
+        "type": "Đền thờ Hindu",
+        "price": "N/A"
+    },
+    {
+        "name": "Club V E-gaming",
+        "rating": "4.7",
+        "type": "Sòng bạc",
+        "price": "N/A"
+    },
+    {
+        "name": "Bảo tàng Tôn Đức Thắng",
+        "rating": "4.3",
+        "type": "Bảo tàng",
+        "price": "N/A"
+    },
+    {
+        "name": "Chùa Giác Lâm",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Craig Thomas Gallery",
+        "rating": "4.4",
+        "type": "Phòng trưng bày nghệ thuật",
+        "price": "N/A"
+    },
+    {
+        "name": "Quận 1",
+        "rating": "N/A",
+        "type": "Administrative Area2",
+        "price": "N/A"
+    },
+    {
+        "name": "Nhà thờ Đức Bà Sài Gòn",
+        "rating": "4.4",
+        "type": "Nhà thờ chính tòa Công giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Nhà hát Thành phố Hồ Chí Minh",
+        "rating": "4.5",
+        "type": "Nhà hát Opera",
+        "price": "N/A"
+    },
+    {
+        "name": "Dinh Độc Lập",
+        "rating": "4.4",
+        "type": "Bảo tàng",
+        "price": "40.000 ₫"
+    },
+    {
+        "name": "Khu di tích lịch sử Địa đạo Củ Chi",
+        "rating": "4.5",
+        "type": "Điểm mốc lịch sử",
+        "price": "N/A"
+    },
+    {
+        "name": "Chợ Bến Thành",
+        "rating": "4.0",
+        "type": "Chợ",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Thảo Cầm Viên Sài Gòn",
+        "rating": "4.2",
+        "type": "Vườn bách thú",
+        "price": "60.000 ₫"
+    },
+    {
+        "name": "Bảo tàng Mỹ thuật TP.HCM",
+        "rating": "4.3",
+        "type": "Bảo tàng nghệ thuật",
+        "price": "N/A"
+    },
+    {
+        "name": "Bảo tàng Lịch sử TP.Hồ Chí Minh",
+        "rating": "4.4",
+        "type": "Bảo tàng lịch sử",
+        "price": "30.000 ₫"
+    },
+    {
+        "name": "Công viên văn hóa Suối Tiên",
+        "rating": "4.2",
+        "type": "Công viên giải trí",
+        "price": "180.000 ₫"
+    },
+    {
+        "name": "Nguyễn Huệ",
+        "rating": "4.6",
+        "type": "Con đường nổi tiếng",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Công viên Tao Đàn",
+        "rating": "4.5",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Bến Nhà Rồng - Bảo Tàng Hồ Chí Minh (Chi nhánh TP.HCM)",
+        "rating": "4.7",
+        "type": "Bảo tàng lịch sử",
+        "price": "N/A"
+    },
+    {
+        "name": "Bảo tàng Chứng tích Chiến tranh",
+        "rating": "4.5",
+        "type": "Bảo tàng chiến tranh",
+        "price": "40.000 ₫"
+    },
+    {
+        "name": "Bảo tàng Thành phố Hồ Chí Minh",
+        "rating": "4.2",
+        "type": "Bảo tàng lịch sử",
+        "price": "N/A"
+    },
+    {
+        "name": "Công viên nước Đầm Sen",
+        "rating": "4.3",
+        "type": "Công viên nước",
+        "price": "220.000 ₫"
+    },
+    {
+        "name": "Bảo tàng Phụ nữ Nam bộ",
+        "rating": "4.4",
+        "type": "Bảo tàng",
+        "price": "N/A"
+    },
+    {
+        "name": "CHÙA NGỌC HOÀNG",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Tháp Bitexco Financial Tower",
+        "rating": "4.5",
+        "type": "Trung tâm thương mại",
+        "price": "240.000 ₫"
+    },
+    {
+        "name": "Hyundai An Sương",
+        "rating": "4.3",
+        "type": "Đại lý xe tải",
+        "price": "N/A"
+    },
+    {
+        "name": "Landmark 81",
+        "rating": "4.6",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "N/A"
+    },
+    {
+        "name": "Bưu điện trung tâm Sài Gòn",
+        "rating": "4.4",
+        "type": "Bưu điện",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Bưu điện Thành phố Hồ Chí Minh",
+        "rating": "4.4",
+        "type": "Bưu điện",
+        "price": "N/A"
+    },
+    {
+        "name": "Nhà Thờ Giáo Xứ Tân Định",
+        "rating": "4.4",
+        "type": "Nhà thờ Công giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chùa Vĩnh Nghiêm",
+        "rating": "4.6",
+        "type": "Chùa phật giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chùa Bửu Long",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Đường sách Thành phố Hồ Chí Minh",
+        "rating": "4.6",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Saigon Skydeck",
+        "rating": "4.4",
+        "type": "Sân ngắm cảnh",
+        "price": "240.000 ₫"
+    },
+    {
+        "name": "Phố đi bộ Bùi Viện",
+        "rating": "4.3",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Ủy ban Nhân dân Thành phố Hồ Chí Minh",
+        "rating": "4.5",
+        "type": "Văn phòng chính quyền thành phố",
+        "price": "N/A"
+    },
+    {
+        "name": "Chợ hoa Hồ Thị Kỷ",
+        "rating": "4.4",
+        "type": "Chợ hoa",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chợ Bình Tây",
+        "rating": "4.4",
+        "type": "Chợ",
+        "price": "N/A"
+    },
+    {
+        "name": "Chùa Bà thiên hậu",
+        "rating": "4.5",
+        "type": "Nơi thờ cúng",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Công viên Vinhomes Central Park",
+        "rating": "4.6",
+        "type": "Công viên",
+        "price": "N/A"
+    },
+    {
+        "name": "Chợ Tân Định",
+        "rating": "4.2",
+        "type": "Chợ",
+        "price": "N/A"
+    },
+    {
+        "name": "Công viên 23 tháng 9",
+        "rating": "4.3",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Cầu Ánh Sao",
+        "rating": "4.6",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "N/A"
+    },
+    {
+        "name": "Chùa Hoằng Pháp",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Bảo tàng Y học Cổ truyền Việt Nam",
+        "rating": "4.4",
+        "type": "Bảo tàng",
+        "price": "180.000 ₫"
+    },
+    {
+        "name": "CÔNG VIÊN GIA ĐỊNH",
+        "rating": "4.6",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chùa Xá Lợi",
+        "rating": "4.6",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Chợ An Đông",
+        "rating": "4.1",
+        "type": "Chợ",
+        "price": "N/A"
+    },
+    {
+        "name": "Chùa Quan Âm",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Công Viên Sala",
+        "rating": "4.6",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chợ Hạnh Thông Tây",
+        "rating": "4.2",
+        "type": "Chợ",
+        "price": "N/A"
+    },
+    {
+        "name": "Công Viên Lê Văn Tám",
+        "rating": "4.4",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Công Viên Văn Hóa Gò Vấp",
+        "rating": "4.4",
+        "type": "Công viên",
+        "price": "N/A"
+    },
+    {
+        "name": "Công viên Hồ bán nguyệt",
+        "rating": "4.6",
+        "type": "Công viên",
+        "price": "N/A"
+    },
+    {
+        "name": "Tu viện Khánh An",
+        "rating": "4.6",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Công Viên Hoàng Văn Thụ",
+        "rating": "4.4",
+        "type": "Công viên",
+        "price": "N/A"
+    },
+    {
+        "name": "Việt Nam Quốc Tự",
+        "rating": "4.6",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Khu du lịch Văn Thánh",
+        "rating": "4.2",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "N/A"
+    },
+    {
+        "name": "Galerie Quynh",
+        "rating": "4.4",
+        "type": "Phòng trưng bày nghệ thuật",
+        "price": "N/A"
+    },
+    {
+        "name": "Cần Giờ",
+        "rating": "N/A",
+        "type": "Administrative Area2",
+        "price": "N/A"
+    },
+    {
+        "name": "Nhà thờ Giáo xứ Thánh Phanxicô Xaviê",
+        "rating": "4.5",
+        "type": "Nhà thờ Công giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Đền thờ Bà Mariamman",
+        "rating": "4.7",
+        "type": "Đền thờ Hindu",
+        "price": "N/A"
+    },
+    {
+        "name": "Club V E-gaming",
+        "rating": "4.7",
+        "type": "Sòng bạc",
+        "price": "N/A"
+    },
+    {
+        "name": "Bảo tàng Tôn Đức Thắng",
+        "rating": "4.3",
+        "type": "Bảo tàng",
+        "price": "N/A"
+    },
+    {
+        "name": "Chùa Giác Lâm",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Craig Thomas Gallery",
+        "rating": "4.4",
+        "type": "Phòng trưng bày nghệ thuật",
+        "price": "N/A"
+    },
+    {
+        "name": "Quận 1",
+        "rating": "N/A",
+        "type": "Administrative Area2",
+        "price": "N/A"
+    },
+    {
+        "name": "Nhà thờ Đức Bà Sài Gòn",
+        "rating": "4.4",
+        "type": "Nhà thờ chính tòa Công giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Nhà hát Thành phố Hồ Chí Minh",
+        "rating": "4.5",
+        "type": "Nhà hát Opera",
+        "price": "N/A"
+    },
+    {
+        "name": "Dinh Độc Lập",
+        "rating": "4.4",
+        "type": "Bảo tàng",
+        "price": "40.000 ₫"
+    },
+    {
+        "name": "Khu di tích lịch sử Địa đạo Củ Chi",
+        "rating": "4.5",
+        "type": "Điểm mốc lịch sử",
+        "price": "N/A"
+    },
+    {
+        "name": "Chợ Bến Thành",
+        "rating": "4.0",
+        "type": "Chợ",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Thảo Cầm Viên Sài Gòn",
+        "rating": "4.2",
+        "type": "Vườn bách thú",
+        "price": "60.000 ₫"
+    },
+    {
+        "name": "Bảo tàng Mỹ thuật TP.HCM",
+        "rating": "4.3",
+        "type": "Bảo tàng nghệ thuật",
+        "price": "N/A"
+    },
+    {
+        "name": "Bảo tàng Lịch sử TP.Hồ Chí Minh",
+        "rating": "4.4",
+        "type": "Bảo tàng lịch sử",
+        "price": "30.000 ₫"
+    },
+    {
+        "name": "Công viên văn hóa Suối Tiên",
+        "rating": "4.2",
+        "type": "Công viên giải trí",
+        "price": "180.000 ₫"
+    },
+    {
+        "name": "Nguyễn Huệ",
+        "rating": "4.6",
+        "type": "Con đường nổi tiếng",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Công viên Tao Đàn",
+        "rating": "4.5",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Bến Nhà Rồng - Bảo Tàng Hồ Chí Minh (Chi nhánh TP.HCM)",
+        "rating": "4.7",
+        "type": "Bảo tàng lịch sử",
+        "price": "N/A"
+    },
+    {
+        "name": "Bảo tàng Chứng tích Chiến tranh",
+        "rating": "4.5",
+        "type": "Bảo tàng chiến tranh",
+        "price": "40.000 ₫"
+    },
+    {
+        "name": "Bảo tàng Thành phố Hồ Chí Minh",
+        "rating": "4.2",
+        "type": "Bảo tàng lịch sử",
+        "price": "N/A"
+    },
+    {
+        "name": "Công viên nước Đầm Sen",
+        "rating": "4.3",
+        "type": "Công viên nước",
+        "price": "220.000 ₫"
+    },
+    {
+        "name": "Bảo tàng Phụ nữ Nam bộ",
+        "rating": "4.4",
+        "type": "Bảo tàng",
+        "price": "N/A"
+    },
+    {
+        "name": "CHÙA NGỌC HOÀNG",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Tháp Bitexco Financial Tower",
+        "rating": "4.5",
+        "type": "Trung tâm thương mại",
+        "price": "240.000 ₫"
+    },
+    {
+        "name": "Hyundai An Sương",
+        "rating": "4.3",
+        "type": "Đại lý xe tải",
+        "price": "N/A"
+    },
+    {
+        "name": "Landmark 81",
+        "rating": "4.6",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "N/A"
+    },
+    {
+        "name": "Bưu điện trung tâm Sài Gòn",
+        "rating": "4.4",
+        "type": "Bưu điện",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Bưu điện Thành phố Hồ Chí Minh",
+        "rating": "4.4",
+        "type": "Bưu điện",
+        "price": "N/A"
+    },
+    {
+        "name": "Nhà Thờ Giáo Xứ Tân Định",
+        "rating": "4.4",
+        "type": "Nhà thờ Công giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chùa Vĩnh Nghiêm",
+        "rating": "4.6",
+        "type": "Chùa phật giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chùa Bửu Long",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Đường sách Thành phố Hồ Chí Minh",
+        "rating": "4.6",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Saigon Skydeck",
+        "rating": "4.4",
+        "type": "Sân ngắm cảnh",
+        "price": "240.000 ₫"
+    },
+    {
+        "name": "Phố đi bộ Bùi Viện",
+        "rating": "4.3",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Ủy ban Nhân dân Thành phố Hồ Chí Minh",
+        "rating": "4.5",
+        "type": "Văn phòng chính quyền thành phố",
+        "price": "N/A"
+    },
+    {
+        "name": "Chợ hoa Hồ Thị Kỷ",
+        "rating": "4.4",
+        "type": "Chợ hoa",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chợ Bình Tây",
+        "rating": "4.4",
+        "type": "Chợ",
+        "price": "N/A"
+    },
+    {
+        "name": "Chùa Bà thiên hậu",
+        "rating": "4.5",
+        "type": "Nơi thờ cúng",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Công viên Vinhomes Central Park",
+        "rating": "4.6",
+        "type": "Công viên",
+        "price": "N/A"
+    },
+    {
+        "name": "Chợ Tân Định",
+        "rating": "4.2",
+        "type": "Chợ",
+        "price": "N/A"
+    },
+    {
+        "name": "Công viên 23 tháng 9",
+        "rating": "4.3",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Cầu Ánh Sao",
+        "rating": "4.6",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "N/A"
+    },
+    {
+        "name": "Chùa Hoằng Pháp",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Bảo tàng Y học Cổ truyền Việt Nam",
+        "rating": "4.4",
+        "type": "Bảo tàng",
+        "price": "180.000 ₫"
+    },
+    {
+        "name": "CÔNG VIÊN GIA ĐỊNH",
+        "rating": "4.6",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chùa Xá Lợi",
+        "rating": "4.6",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Chợ An Đông",
+        "rating": "4.1",
+        "type": "Chợ",
+        "price": "N/A"
+    },
+    {
+        "name": "Chùa Quan Âm",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Công Viên Sala",
+        "rating": "4.6",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Chợ Hạnh Thông Tây",
+        "rating": "4.2",
+        "type": "Chợ",
+        "price": "N/A"
+    },
+    {
+        "name": "Công Viên Lê Văn Tám",
+        "rating": "4.4",
+        "type": "Công viên",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Công Viên Văn Hóa Gò Vấp",
+        "rating": "4.4",
+        "type": "Công viên",
+        "price": "N/A"
+    },
+    {
+        "name": "Công viên Hồ bán nguyệt",
+        "rating": "4.6",
+        "type": "Công viên",
+        "price": "N/A"
+    },
+    {
+        "name": "Tu viện Khánh An",
+        "rating": "4.6",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Công Viên Hoàng Văn Thụ",
+        "rating": "4.4",
+        "type": "Công viên",
+        "price": "N/A"
+    },
+    {
+        "name": "Việt Nam Quốc Tự",
+        "rating": "4.6",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Khu du lịch Văn Thánh",
+        "rating": "4.2",
+        "type": "Điểm thu hút khách du lịch",
+        "price": "N/A"
+    },
+    {
+        "name": "Galerie Quynh",
+        "rating": "4.4",
+        "type": "Phòng trưng bày nghệ thuật",
+        "price": "N/A"
+    },
+    {
+        "name": "Cần Giờ",
+        "rating": "N/A",
+        "type": "Administrative Area2",
+        "price": "N/A"
+    },
+    {
+        "name": "Nhà thờ Giáo xứ Thánh Phanxicô Xaviê",
+        "rating": "4.5",
+        "type": "Nhà thờ Công giáo",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Đền thờ Bà Mariamman",
+        "rating": "4.7",
+        "type": "Đền thờ Hindu",
+        "price": "N/A"
+    },
+    {
+        "name": "Club V E-gaming",
+        "rating": "4.7",
+        "type": "Sòng bạc",
+        "price": "N/A"
+    },
+    {
+        "name": "Bảo tàng Tôn Đức Thắng",
+        "rating": "4.3",
+        "type": "Bảo tàng",
+        "price": "N/A"
+    },
+    {
+        "name": "Chùa Giác Lâm",
+        "rating": "4.7",
+        "type": "Chùa phật giáo",
+        "price": "N/A"
+    },
+    {
+        "name": "Craig Thomas Gallery",
+        "rating": "4.4",
+        "type": "Phòng trưng bày nghệ thuật",
+        "price": "N/A"
+    },
+    {
+        "name": "Quận 1",
+        "rating": "N/A",
+        "type": "Administrative Area2",
+        "price": "N/A"
+    },
+    {
+        "name": "Bảo tàng Áo Dài",
+        "rating": "4.4",
+        "type": "Bảo tàng di sản",
+        "price": "N/A"
+    },
+    {
+        "name": "Hội Quán Nghĩa An",
+        "rating": "4.7",
+        "type": "Nơi thờ cúng",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Quận 3",
+        "rating": "N/A",
+        "type": "Administrative Area2",
+        "price": "N/A"
+    },
+    {
+        "name": "Khu vui chơi Tuyết Snow Town Sài Gòn",
+        "rating": "4.1",
+        "type": "Trung tâm vui chơi giải trí",
+        "price": "160.000 ₫"
+    },
+    {
+        "name": "Vietopia",
+        "rating": "4.2",
+        "type": "Công viên giải trí",
+        "price": "325.000 ₫"
+    },
+    {
+        "name": "Bảo tàng Chiến dịch Hồ Chí Minh",
+        "rating": "4.3",
+        "type": "Bảo tàng chiến tranh",
+        "price": "N/A"
+    },
+    {
+        "name": "Đường Bùi Viện",
+        "rating": "4.3",
+        "type": "Con đường nổi tiếng",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Đường Đồng Khởi",
+        "rating": "N/A",
+        "type": "Tuyến đường",
+        "price": "N/A"
+    },
+    {
+        "name": "Phạm Ngũ Lão",
+        "rating": "4.7",
+        "type": "Con đường nổi tiếng",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Tân Định",
+        "rating": "N/A",
+        "type": "Khu dân cư",
+        "price": "N/A"
+    },
+    {
+        "name": "Bến Thành",
+        "rating": "N/A",
+        "type": "Khu dân cư",
+        "price": "N/A"
+    },
+    {
+        "name": "Quận 10",
+        "rating": "N/A",
+        "type": "Administrative Area2",
+        "price": "N/A"
+    },
+    {
+        "name": "Công Viên Bờ Sông Sài Gòn Tp Thủ Đức",
+        "rating": "4.4",
+        "type": "Công viên",
+        "price": "N/A"
+    },
+    {
+        "name": "Hồ Con Rùa",
+        "rating": "4.4",
+        "type": "Ao",
+        "price": "Miễn phí"
+    },
+    {
+        "name": "Quang San Art Museum",
+        "rating": "4.8",
+        "type": "Bảo tàng nghệ thuật",
+        "price": "N/A"
+    },
+    {
+        "name": "Quận 4",
+        "rating": "N/A",
+        "type": "Administrative Area2",
+        "price": "N/A"
+    },
+    {
+        "name": "Quận 7",
+        "rating": "N/A",
+        "type": "Administrative Area2",
+        "price": "N/A"
+    },
+    {
+        "name": "Lý Tự Trọng",
+        "rating": "4.5",
+        "type": "Con đường nổi tiếng",
+        "price": "N/A"
+    },
+    {
+        "name": "Lotus Gallery - Art Gallery",
+        "rating": "4.6",
+        "type": "Phòng trưng bày nghệ thuật",
+        "price": "N/A"
+    },
+    {
+        "name": "Đường Lê Lai",
+        "rating": "4.3",
+        "type": "Con đường nổi tiếng",
+        "price": "N/A"
+    }
+]
